@@ -1,0 +1,8 @@
+Flask==2.1.2
+gunicorn==20.1.0
+pandas==1.2.4
+plotly==5.3.1
+utils==1.0.1
+imblearn==0.0
+imbalanced-learn==0.8.1
+scikit-learn==1.0.1
