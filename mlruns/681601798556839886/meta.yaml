@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis_virtual_DL/mlruns/681601798556839886
+creation_time: 1671697500462
+experiment_id: '681601798556839886'
+last_update_time: 1671697500462
+lifecycle_stage: active
+name: BiLSTM_sentiment_analysis

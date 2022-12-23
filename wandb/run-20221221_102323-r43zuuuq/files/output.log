@@ -1,0 +1,241 @@
+(451, 300)
+(452, 300)
+(452, 300)
+(452, 300)
+(905, 300)
+(905, 300)
+(904, 300)
+(905, 300)
+(905, 300)
+(905, 300)
+(905, 300)
+(905, 300)
+(905, 300)
+(905, 300)
+(905, 300)
+(905, 300)
+(905, 300)
+(905, 300)
+(4166, 300)
+(905, 300)
+(905, 300)
+(905, 300)
+(905, 300)
+(906, 300)
+(905, 300)
+(905, 300)
+(906, 300)
+
+
+
+
+
+29/29 [==============================] - 10s 354ms/step
+
+
+
+
+
+29/29 [==============================] - 10s 361ms/step
+
+
+
+
+29/29 [==============================] - 10s 345ms/step
+
+
+
+
+
+29/29 [==============================] - 10s 333ms/step
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+142/142 [==============================] - 50s 352ms/step
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+206/206 [==============================] - 54s 263ms/step
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+142/142 [==============================] - 48s 339ms/step
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+206/206 [==============================] - 55s 265ms/step
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+142/142 [==============================] - 38s 265ms/step
+
+
+
+
+29/29 [==============================] - 8s 266ms/step
+
+
+29/29 [==============================] - 8s 267ms/step
+
+
+
+
+
+26/29 [=========================>....] - ETA: 0sWARNING:tensorflow:Model was constructed with shape (None, 300) for input KerasTensor(type_spec=TensorSpec(shape=(None, 300), dtype=tf.float32, name='input_1'), name='input_1', description="created by layer 'input_1'"), but it was called on an input with incompatible shape (None, 1).
+
+
+
+
+29/29 [==============================] - 8s 271ms/step
+
+
+
+29/29 [==============================] - 7s 249ms/step
+
+
+
+29/29 [==============================] - 7s 250ms/step
+
+
+
+29/29 [==============================] - 8s 270ms/step
+
+
+
+29/29 [==============================] - 7s 251ms/step
+WARNING:tensorflow:Model was constructed with shape (None, 300) for input KerasTensor(type_spec=TensorSpec(shape=(None, 300), dtype=tf.float32, name='input_1'), name='input_1', description="created by layer 'input_1'"), but it was called on an input with incompatible shape (None, 1).
+WARNING:tensorflow:Model was constructed with shape (None, 300) for input KerasTensor(type_spec=TensorSpec(shape=(None, 300), dtype=tf.float32, name='input_1'), name='input_1', description="created by layer 'input_1'"), but it was called on an input with incompatible shape (None, 1).
+WARNING:tensorflow:Model was constructed with shape (None, 300) for input KerasTensor(type_spec=TensorSpec(shape=(None, 300), dtype=tf.float32, name='input_1'), name='input_1', description="created by layer 'input_1'"), but it was called on an input with incompatible shape (None, 1).
+[nltk_data] Downloading package omw-1.4 to
+[nltk_data]     C:\Users\Admin\AppData\Roaming\nltk_data...
+[nltk_data]   Package omw-1.4 is already up-to-date!
+[nltk_data] Downloading package wordnet to
+[nltk_data]     C:\Users\Admin\AppData\Roaming\nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+[nltk_data] Downloading package averaged_perceptron_tagger to
+[nltk_data]     C:\Users\Admin\AppData\Roaming\nltk_data...
+[nltk_data]   Package averaged_perceptron_tagger is already up-to-
+[nltk_data]       date!
+C:\Users\Admin\AppData\Local\Temp\ipykernel_24820\4105619847.py:1: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Document'] = df['Review Text'].apply(cleaning)
+Total words 6676
+CPU times: total: 297 ms
+Wall time: 318 ms
+CPU times: total: 406 ms
+Wall time: 410 ms
+[nltk_data] Downloading package omw-1.4 to
+[nltk_data]     C:\Users\Admin\AppData\Roaming\nltk_data...
+[nltk_data]   Package omw-1.4 is already up-to-date!
+[nltk_data] Downloading package wordnet to
+[nltk_data]     C:\Users\Admin\AppData\Roaming\nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+[nltk_data] Downloading package averaged_perceptron_tagger to
+[nltk_data]     C:\Users\Admin\AppData\Roaming\nltk_data...
+[nltk_data]   Package averaged_perceptron_tagger is already up-to-
+[nltk_data]       date!

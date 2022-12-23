@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis_virtual_DL/mlruns/159415254852228256
+creation_time: 1671533173023
+experiment_id: '159415254852228256'
+last_update_time: 1671533173023
+lifecycle_stage: active
+name: LSTM_sentiment_analysis

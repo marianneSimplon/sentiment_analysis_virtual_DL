@@ -1,0 +1,1 @@
+["shape=(None, 300, 300), dtype=tf.float32, name=None), name='embedding_4/em", "shape=(None, 300, 200), dtype=tf.float32, name=None), name='bidirectional_", "shape=(None, 60000), dtype=tf.float32, name=None), name='flatten_4/Reshape", "shape=(None, 1), dtype=tf.float32, name=None), name='dense_4/Sigmoid:0', d"]

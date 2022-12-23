@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis_virtual_DL/mlruns/159415254852228256/3edb323c933a40a9bf9da512abf2ac36/artifacts
+end_time: 1671535893617
+entry_point_name: ''
+experiment_id: '159415254852228256'
+lifecycle_stage: active
+run_id: 3edb323c933a40a9bf9da512abf2ac36
+run_name: LSTM_2
+run_uuid: 3edb323c933a40a9bf9da512abf2ac36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671535893219
+status: 3
+tags: []
+user_id: Admin

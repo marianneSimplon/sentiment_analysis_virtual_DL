@@ -1,0 +1,1 @@
+[<KerasTensor: shape=(None, 300, 300) dtype=float32 (created by layer 'embedding_5')>, <KerasTensor: shape=(None, 300, 100) dtype=float32 (created by layer 'lstm_11')>, <KerasTensor: shape=(None, 30000) dtype=float32 (created by layer 'flatten_5')>, <KerasTensor: shape=(None, 1) dtype=float32 (created by layer 'dense_5')>]

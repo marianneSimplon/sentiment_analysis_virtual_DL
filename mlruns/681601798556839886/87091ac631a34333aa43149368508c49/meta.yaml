@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis_virtual_DL/mlruns/681601798556839886/87091ac631a34333aa43149368508c49/artifacts
+deleted_time: 1671697728755
+end_time: 1671697695834
+entry_point_name: ''
+experiment_id: '681601798556839886'
+lifecycle_stage: deleted
+run_id: 87091ac631a34333aa43149368508c49
+run_name: BiLSTM_1
+run_uuid: 87091ac631a34333aa43149368508c49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671697695716
+status: 4
+tags: []
+user_id: Admin

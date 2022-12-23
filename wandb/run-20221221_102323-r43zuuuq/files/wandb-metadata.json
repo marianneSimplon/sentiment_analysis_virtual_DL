@@ -1,0 +1,41 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.8",
+    "heartbeatAt": "2022-12-21T09:23:25.003925",
+    "startedAt": "2022-12-21T09:23:23.107561",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "tests_lstm_wandb.ipynb",
+    "root": "C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis_virtual_DL",
+    "git": {
+        "remote": "git@github.com:marianneSimplon/sentiment_analysis_virtual_DL.git",
+        "commit": "b7cd88781d9be4368e67a67b5473694cd98e2714"
+    },
+    "email": "marianne.depierre.simplon@gmail.com",
+    "host": "DESKTOP-74OG52P",
+    "username": "Admin",
+    "executable": "C:\\Users\\Admin\\Documents\\marianneSimplon\\simplon\\sentiment_analysis_virtual_DL\\venv\\Scripts\\python.exe",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2200.0,
+        "min": 0.0,
+        "max": 2201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2200.0,
+            "min": 0.0,
+            "max": 2201.0
+        }
+    ],
+    "disk": {
+        "total": 222.39613342285156,
+        "used": 218.75407028198242
+    },
+    "memory": {
+        "total": 15.409282684326172
+    }
+}

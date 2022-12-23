@@ -1,0 +1,7 @@
+artifact_location: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis_virtual_DL/mlruns/452323881640629640
+creation_time: 1671533138978
+experiment_id: '452323881640629640'
+last_update_time: 1671533270043
+lifecycle_stage: active
+name: XGBRegressor
+tags: {}
