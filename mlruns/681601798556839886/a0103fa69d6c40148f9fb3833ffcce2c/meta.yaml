@@ -4,12 +4,12 @@ entry_point_name: ''
 experiment_id: '681601798556839886'
 lifecycle_stage: active
 run_id: a0103fa69d6c40148f9fb3833ffcce2c
-run_name: BiLSTM_5
+run_name: BiLSTM_4
 run_uuid: a0103fa69d6c40148f9fb3833ffcce2c
 source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1671731822903
-status: 3
+status: 1
 tags: []
 user_id: Admin
